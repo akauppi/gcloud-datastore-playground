@@ -2,11 +2,6 @@ package main
 
 import com.google.cloud.datastore._
 
-/*
-* Usage:
-*   $ export GOOGLE_APPLICATION_CREDENTIALS=secrets/<yourfile>.json
-*   $ sbt run
-*/
 object MainRead {
 
   /*
